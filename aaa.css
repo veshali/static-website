@@ -1,0 +1,172 @@
+#wrapper
+{
+margin:0px 0px 0px 130px;
+padding:0px 0px 0px 0px;
+height:auto;
+width:1080px;
+background-color:#E5E5E5;
+}
+.header
+{
+margin:0px 0px 0px 0px;
+padding:0px 0px 0px 0px;
+height:auto;
+width:1080px;
+}
+.header img
+{
+margin:0px 0px 0px 0px;
+padding:0px 0px 0px 0px;
+width:1080px;
+height:auto;
+}
+.nav
+{
+height:auto;
+}
+.container
+{
+margin:0px 0px 0px 0px;
+padding:0px 0px 0px 0px;
+height:auto;
+max-width:1080px;
+}
+
+
+.container1
+{
+margin:0px 0px 0px 0px;
+padding:0px 0px 0px 0px;
+width:250px;
+height:auto;
+float:left;
+}
+.container2
+{
+margin:0px 0px 0px 0px;
+padding:0px 0px 0px 0px;
+max-width:580px;
+height:auto;
+float:left;
+text-align:center;
+}
+.aa img
+{
+width:115px;
+}
+.aa1 img
+{
+width:500px;
+}
+
+.container3
+{
+margin:0px 0px 0px 0px;
+padding:0px 0px 0px px;
+width:240px;
+height:auto;
+float:right;
+}
+
+.footer
+{
+margin:0px 0px 0px 0px;
+padding:0px 0px 0px 0px;
+height:auto;
+width:1080px;
+clear:both;
+}
+
+@media screen and (min-width:320px) and (max-width:480px)
+{
+#wrapper
+{
+margin:0px 0px 0px 0px;
+padding:0px 0px 0px 0px;
+height:auto;
+max-width:320px;
+background-color:#E5E5E5;
+}
+.header
+{
+margin:0px 0px 0px 0px;
+padding:0px 0px 0px 0px;
+height:auto;
+max-width:320px;
+}
+.header img
+{
+margin:0px 0px 0px 0px;
+padding:0px 0px 0px 0px;
+width:320px;
+height:80px;
+}
+.nav
+{
+width:320px;
+}
+.container
+{
+margin:0px 0px 0px 0px;
+padding:0px 0px 0px 0px;
+height:auto;
+max-width:320px;
+}
+.res
+{
+overflow-x:auto;
+}
+
+.container img
+{
+height:150px;
+}
+.container1
+{
+margin:0px 0px 0px 0px;
+padding:0px 0px 0px 50px;
+max-width:320px;
+height:auto;
+}
+.container2
+{
+margin:0px 0px 0px 0px;
+padding:0px 0px 0px 0px;
+max-width:320px;
+height:auto;
+text-align:center;
+}
+.aa img
+{
+width:60px;
+}
+.aa1 img
+{
+width:250px;
+}
+.container2 table
+{
+width:320px;
+}
+.container3
+{
+margin:0px 0px 0px 0px;
+padding:0px 0px 0px 50px;
+max-width:320px;
+height:auto;
+float:left;
+}
+
+.footer
+{
+margin:0px 0px 0px 0px;
+padding:0px 0px 0px 0px;
+height:auto;
+max-width:320px;
+clear:both;
+}
+.foot
+{
+overflow-x:auto;
+}
+}
